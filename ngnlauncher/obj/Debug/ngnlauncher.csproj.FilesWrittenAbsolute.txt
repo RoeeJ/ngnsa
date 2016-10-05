@@ -1,0 +1,9 @@
+/Users/cipher/Documents/Visual Studio 2013/Projects/ngnlauncher/ngnlauncher/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/cipher/Documents/Visual Studio 2013/Projects/ngnlauncher/ngnlauncher/obj/Debug/ngnlauncher.Properties.Resources.resources
+/Users/cipher/Documents/Visual Studio 2013/Projects/ngnlauncher/ngnlauncher/bin/Debug/ngnlauncher.exe.config
+/Users/cipher/Documents/Visual Studio 2013/Projects/ngnlauncher/ngnlauncher/bin/Debug/ngnlauncher.exe.mdb
+/Users/cipher/Documents/Visual Studio 2013/Projects/ngnlauncher/ngnlauncher/bin/Debug/ngnlauncher.pdb
+/Users/cipher/Documents/Visual Studio 2013/Projects/ngnlauncher/ngnlauncher/bin/Debug/ngnlauncher.exe
+/Users/cipher/Documents/Visual Studio 2013/Projects/ngnlauncher/ngnlauncher/obj/Debug/ngnlauncher.exe
+/Users/cipher/Documents/Visual Studio 2013/Projects/ngnlauncher/ngnlauncher/obj/Debug/ngnlauncher.exe.mdb
+/Users/cipher/Documents/Visual Studio 2013/Projects/ngnlauncher/ngnlauncher/obj/Debug/ngnlauncher.pdb
